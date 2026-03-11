@@ -18,9 +18,9 @@
 
 # 📊 Моя статистика
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?xelturon=xelturon\&show_icons=true\&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=xelturon\&show_icons=true\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?xelturon=xelturon\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xelturon\&layout=compact\&theme=tokyonight)
 
 ---
 
